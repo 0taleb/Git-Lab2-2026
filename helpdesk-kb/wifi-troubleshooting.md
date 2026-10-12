@@ -1,4 +1,4 @@
-# Wi‑Fi Troubleshooting Guide
+# Wireless Network Help
 
 ## Current Revision
 
