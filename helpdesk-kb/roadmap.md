@@ -6,3 +6,4 @@
 - Add MFA documentation
 - Add laptop imaging guide
 - Add Teams support guide
+- Add Wi-Fi solutions guide 

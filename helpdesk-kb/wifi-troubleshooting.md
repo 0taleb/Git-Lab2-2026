@@ -1,4 +1,5 @@
-# Wireless Network Help
+# Wi‑Fi Troubleshoot Guide/Wireless Network Help
+
 
 ## Current Revision
 
@@ -25,3 +26,10 @@ No issues currently documented.
 ## Escalation
 
 If the issue persists after all troubleshooting steps have been completed, contact the Service Desk.
+
+## Slow Wireless Connections
+
+1. Restart your router and modem
+2. Test your speed wired
+3. Switch Wi-Fi bands
+4. Update your firmware
